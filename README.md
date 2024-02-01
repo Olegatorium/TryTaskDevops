@@ -1,2 +1,1 @@
-# TryTaskDevops
-CI/CD_GITHUB_ACTIONS
+# Github Action. Continuous Integration
